@@ -7,7 +7,5 @@ def getNumber(Number):
     elif(Number==3):
         return 'tres'
 
-newNumber=random.randint(1,3)
-answer=getNumber(newNumber)
-print(answer)
+print(getNumber(random.randint(1,3)))
 #with return you are not printing so using print is mandatory
