@@ -11,3 +11,7 @@ print(str(marks[1:]))
 #trial
 
 print(str(marks[-1:]))
+
+
+#len
+print(str(len(marks)))
