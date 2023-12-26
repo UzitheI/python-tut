@@ -8,3 +8,7 @@ if name not in names:
 else:
     print('The person is in our list')
 
+
+for index, item in enumerate(names):
+    print('index'+ str(index)+ ' has the name  '+item)
+    
