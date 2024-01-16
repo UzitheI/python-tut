@@ -21,5 +21,4 @@ main()
 # we can also conver the types of tuples into lists and vice versa as it is just another datatype for python
 
 # a tuple can be considered as a immutable list
-
     
