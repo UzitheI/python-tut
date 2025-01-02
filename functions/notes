@@ -1,3 +1,0 @@
-print function in python is assigned a null value which in python is called None, it is because python interpreter assigns a null value to every function that has no return file, which in case of print, it only prints the value to the terminal and it doesnot have to return anything like len or randint
-
-

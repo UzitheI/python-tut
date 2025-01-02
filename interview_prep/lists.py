@@ -137,6 +137,10 @@ print(lamb_array)
 
 #list comprehension
 
+list_arr=[i for i in range(5)]
+
+print(list_arr)
+
 
 
 
