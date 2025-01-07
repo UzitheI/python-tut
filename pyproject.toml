@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "python-tut"
+version = "0.1.0"
+description = ""
+authors = ["UzitheI <ujjwalpuri221@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+requests = "^2.32.3"
+numpy = "^2.2.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
